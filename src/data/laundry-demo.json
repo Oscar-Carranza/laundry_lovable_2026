@@ -1,0 +1,23 @@
+{
+  "slotStartHour": 8,
+  "slotEndHour": 22,
+  "slotDurationHours": 2,
+  "bookings": [
+    { "id": 1, "user": "test1", "dayOffset": -1, "slot_start": 8 },
+    { "id": 2, "user": "test2", "dayOffset": -1, "slot_start": 14 },
+    { "id": 3, "user": "test3", "dayOffset": -1, "slot_start": 20 },
+    { "id": 4, "user": "test1", "dayOffset": 0, "slot_start": 8 },
+    { "id": 5, "user": "test4", "dayOffset": 0, "slot_start": 12 },
+    { "id": 6, "user": "test2", "dayOffset": 0, "slot_start": 18 },
+    { "id": 7, "user": "test5", "dayOffset": 1, "slot_start": 10 },
+    { "id": 8, "user": "test3", "dayOffset": 1, "slot_start": 16 },
+    { "id": 9, "user": "test6", "dayOffset": 2, "slot_start": 8 },
+    { "id": 10, "user": "test1", "dayOffset": 2, "slot_start": 14 },
+    { "id": 11, "user": "test4", "dayOffset": 3, "slot_start": 12 },
+    { "id": 12, "user": "test2", "dayOffset": 3, "slot_start": 20 },
+    { "id": 13, "user": "test5", "dayOffset": 4, "slot_start": 10 },
+    { "id": 14, "user": "test6", "dayOffset": 5, "slot_start": 16 },
+    { "id": 15, "user": "test3", "dayOffset": 6, "slot_start": 8 },
+    { "id": 16, "user": "test1", "dayOffset": 6, "slot_start": 18 }
+  ]
+}
